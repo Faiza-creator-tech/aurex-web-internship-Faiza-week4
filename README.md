@@ -1,12 +1,12 @@
 # AUREX Web Internship — Week 4
 
-**Intern Name:** [Apna naam likhein]
+**Intern Name:** Faiza
 **Domain:** Full-Stack Engineering (Frontend Foundation)
 **Week:** Week 4
 
 ## Live Deployment Link
-[Yahan apna GitHub Pages ya Vercel link daalein]
 
+ https://faiza-creator-tech.github.io/aurex-web-internship-Faiza-week4/
 ## Technologies Used
 - HTML5
 - CSS3
@@ -25,7 +25,7 @@
 - Responsive layout (mobile + desktop)
 
 ## Challenges Faced & What I Learned
-[Yahan apne khud ke challenges aur seekhi hui cheezen likhein — e.g. event delegation samajhna, localStorage JSON stringify/parse ka use, ya form validation]
+Sabse bara challenge localStorage ko samajhna tha — mujhe pehle pata nahi tha ke JSON.stringify() aur JSON.parse() kyun use karte hain. Baad mai samajh aaya ke localStorage sirf strings store kar sakta hai, isliye arrays/objects ko string mai convert karna padta hai. Dusra challenge Git aur GitHub setup tha, especially SSH key banana — pehli baar thoda confusing tha lekin step by step samajh aa gaya. Isse mujhe DOM manipulation, event handling, aur real-world deployment ka acha practical experience mila.
 
 ## Completed JavaScript Exercises
 - Variables (let, const)
